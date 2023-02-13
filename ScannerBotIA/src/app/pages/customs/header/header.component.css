@@ -1,0 +1,15 @@
+.btn-icon{
+    margin-top: 16px;
+    transform: scale(1.2);
+    background: none;
+}
+.btn{
+    color: aliceblue;
+    background: none;
+}
+.disable-link{
+    text-decoration: none;
+    color: aliceblue;
+    background: none;
+    font-weight: bold;
+}
