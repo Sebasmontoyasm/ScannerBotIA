@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.12"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
